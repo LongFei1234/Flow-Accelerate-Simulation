@@ -1,3 +1,3 @@
 # Flow-Accelerate-Simulation
 
-some tools can be found by runnning `git checkout analyse`
+Some tools for static analysing.
